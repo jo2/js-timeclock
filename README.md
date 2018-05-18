@@ -5,11 +5,11 @@ This is a Javascript timeclock to choose amounts of time during the week.
 include timeclock.min.js and timeclock.min.css into your page.
 you need the following html elements in your page:
 ```
-<input id="timeclockInput" style="width: 1000px">
+<input id="timeclockInput" type="hidden">
 <div id="timeclock-container"></div>
 ```
-you´ll likely want to hide the input element.
 # json structure
+you´ll get the following json structure
 ```
 [
     {"start":"tu0630","end":"tu1130"},
