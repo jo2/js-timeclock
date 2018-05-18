@@ -16,3 +16,5 @@ you´ll likely want to hide the input element.
     ...
 ]
 ```
+# other
+if you have any ideas to improve this or you notice any bugs feel free to create an issue.
