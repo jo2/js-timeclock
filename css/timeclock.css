@@ -27,3 +27,10 @@ table#timeclock th {
 table#timeclock tr {
     margin-bottom: 5px;
 }
+
+.separator-cell {
+    border-right: none !important;
+    border-top: none !important;
+    border-bottom: none !important;
+    height: inherit !important;
+}
